@@ -1,4 +1,4 @@
 <script lang="ts">
 </script>
 
-<main>Home</main>
+<main>Change Info</main>
